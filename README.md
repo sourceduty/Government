@@ -79,6 +79,8 @@ However, the introduction of a robotic president also raises significant ethical
 [Trains](https://github.com/sourceduty/Trains)
 <br>
 [Modernization](https://github.com/sourceduty/Modernization)
+<br>
+[Political Simulator](https://chatgpt.com/g/g-4GT3x5ITg-political-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
