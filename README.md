@@ -43,6 +43,12 @@ However, voting systems and practices can vary widely across the world, with dif
 [Public Work](https://github.com/sourceduty/Public_Work)
 <br>
 [Canadian Government](https://chat.openai.com/g/g-578CEKmsA-canadian-government)
+<br>
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+<br>
+[Trains](https://github.com/sourceduty/Trains)
+<br>
+[Modernization](https://github.com/sourceduty/Modernization)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
