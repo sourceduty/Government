@@ -96,6 +96,8 @@ Finally, the presence of USB ports in bus shelters can also serve as a platform 
 [Modernization](https://github.com/sourceduty/Modernization)
 <br>
 [Political Simulator](https://chatgpt.com/g/g-4GT3x5ITg-political-simulator)
+<br>
+[Public Simulator](https://chat.openai.com/g/g-HJp62OrcF-public-simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
