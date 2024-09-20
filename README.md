@@ -28,6 +28,28 @@ The implications of multipolar global governance are profound for global stabili
 Overall, multipolar global governance represents a significant shift in the way international affairs are conducted. It demands greater flexibility and creativity in diplomatic engagement and the design of international institutions. As power becomes more diffused, the effectiveness of global governance will depend on the ability of diverse actors to collaborate and compromise, balancing national interests with the collective good. This evolving landscape poses both challenges and opportunities, requiring innovative approaches to ensure that global governance structures remain effective and relevant in a multipolar world.
 
 #
+### Governance Abstraction
+
+The abstraction levels of government across the globe refer to the layers of authority and decision-making from local to national and sometimes supranational levels. These levels can include everything from small municipal governments to vast federal structures. Understanding these different types of governmental abstraction is crucial for analyzing how power is distributed and how effectively policies can be implemented across regions. The top abstraction types are generally categorized based on structural hierarchy, legal authority, and administrative reach.
+
+These abstraction levels vary widely depending on the country’s historical, political, and cultural context. For example, federal systems like the United States and Germany have clear distinctions between national and state governments, with both having significant autonomy. In contrast, unitary states like France and Japan centralize authority more heavily at the national level, though there may still be regional or local governments with limited power. Additionally, there are hybrid systems that blend features of both unitary and federal systems, such as Spain and South Africa, where regional governments have unique legislative powers.
+
+<br>
+
+| Abstraction Type           | Number of Countries | Levels of Government | Examples                       |
+|----------------------------|---------------------|----------------------|--------------------------------|
+| Federal                    | 24                  | 3 (National, State, Local) | USA, Germany, Brazil           |
+| Unitary                    | 150                 | 2 (National, Local)  | France, Japan, China           |
+| Confederation              | 3                   | 2 (Supranational, National) | EU, Switzerland, UAE          |
+| Devolved Unitary           | 12                  | 3 (National, Regional, Local) | UK, Spain, Italy            |
+| Semi-Federal               | 8                   | 3 (National, State, Local) | India, Malaysia, Russia       |
+| Autonomous Regions         | 15                  | 3 (National, Autonomous, Local) | Hong Kong (China), Greenland (Denmark) |
+| City-State                 | 3                   | 1 (City)             | Singapore, Monaco, Vatican     |
+| Supranational              | 1                   | 1 (Supranational)    | European Union                |
+| Tribal/Federal Hybrid      | 5                   | 3 (National, Tribal, Local) | Nigeria, Ethiopia, Iraq      |
+| Regional Unitary           | 10                  | 3 (National, Regional, Local) | South Africa, Belgium        |
+
+#
 ### Polarization of Global Governance
 
 ![Governance 2024](https://github.com/user-attachments/assets/3d4cc7d9-93e0-4c3d-91fd-2bb638f8082d)
