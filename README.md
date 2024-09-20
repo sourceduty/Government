@@ -1,4 +1,4 @@
-![World Map](https://github.com/user-attachments/assets/4393af75-3283-4413-8e7f-99788a4ef29c)
+![World Map](https://github.com/user-attachments/assets/a3dc1ad0-1d1b-441a-bf61-17896a9ddeae)
 
 > Organizing and regulating societies, providing essential services and maintaining order.
 
