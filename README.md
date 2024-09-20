@@ -50,6 +50,13 @@ These abstraction levels vary widely depending on the country’s historical, po
 | Regional Unitary           | 10                  | 3 (National, Regional, Local) | South Africa, Belgium        |
 
 #
+### Canadian Abstraction
+
+The Canadian government operates under a federal system with four main levels of abstraction: municipalities, provinces and territories, the federal government, and, in certain contexts, the supranational level. Municipalities, which include townships and cities, manage local services such as policing, public transportation, and community development, functioning within frameworks set by the provincial governments. Provincial and territorial governments hold authority over areas like education, healthcare, and natural resource management, each with its own legislature. They also set the rules for municipal operations, creating a connection between local and provincial policies and ensuring that regional needs are met.
+
+The federal government is responsible for national issues, including defense, foreign policy, and national economic policy. It operates through the executive branch led by the Prime Minister, the legislative branch (Parliament), and the judicial branch (Supreme Court). Some areas, like transportation and agriculture, involve shared jurisdiction between federal and provincial governments. Additionally, Canada engages at the supranational level through international organizations and trade agreements that influence its domestic laws and policies. This multi-level system of governance allows Canada to address local, regional, and national concerns within a cohesive framework.
+
+#
 ### Polarization of Global Governance
 
 ![Governance 2024](https://github.com/user-attachments/assets/3d4cc7d9-93e0-4c3d-91fd-2bb638f8082d)
